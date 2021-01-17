@@ -2,7 +2,7 @@
 
 1회 오픈 세미나
 -------------
-미공개
+비공개
 
 
 2회 오픈 세미나
@@ -16,5 +16,5 @@
 3회 오픈 세미나
 -------------
 1. Jsonwebtoken | 정지용 (공개)
-2. Snake Ransomware | 김동언 (미공개)
+2. Snake Ransomware | 김동언 (비공개)
 3. Attacks on RSA Cryptosystem | 김동현, 박현 (공개)
