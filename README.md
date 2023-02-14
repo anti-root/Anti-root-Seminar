@@ -25,3 +25,12 @@
 
 ![137038071_2737299019868663_5704458869219278929_n](https://user-images.githubusercontent.com/44921791/114509226-3dadc280-9c70-11eb-956b-a564686f6b99.jpg)
 
+Find 세미나
+-------------
+1. Offensive Security 시장분야와 OSCP 입문 첫걸음 길잡이 가이드 | 추상원 (비공개)
+2. 여행 동아리 운영 방법 | 이승욱 (비공개)
+3. 워드프레스 플러그인의 원데이 분석을 통한 제로데이 찾기 | 정성호, 황원민 (공개)
+4. CloudGoat & 클라우드 서비스 취약점 연구 | 이창엽, 이진우 (공개)
+5. Yara Rule & Metaspike E-mail Forensic Review | 이창엽 (비공개)
+
+![327450883_1156424488377189_2704441005060493786_n](https://user-images.githubusercontent.com/20013953/218738225-d75422cf-631c-4bda-bf30-59473b147989.jpg)
